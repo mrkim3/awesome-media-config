@@ -8,4 +8,4 @@ spring:
   h2: 
     console:
       enabled: true
-name: miri-default-hello
+name: miri-default-hi
