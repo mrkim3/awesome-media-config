@@ -6,3 +6,4 @@ spring:
     initialize:  true
     platform: mysql
  
+name: miri-default-hi
